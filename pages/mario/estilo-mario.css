@@ -1,0 +1,90 @@
+html {
+    padding:0;
+    margin:0;
+}
+
+body {
+    background-color: #e11364;
+    font-family:"Roboto", serif;
+    margin:0;
+    padding:0;
+    width: 100%;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    background-color: #bc105c;
+    width:85%;
+    box-sizing: border-box;
+    padding: 10px;
+    border-left: 3px solid white;
+    border-right: 3px solid white ;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+
+h2 {
+    color:#bc105c;
+}
+
+main {
+    background-color: #bc105c;
+    width: 85%;
+    margin:auto;
+    padding-top: 10px;;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+section {
+    background-color: #ffffff;
+    width: 96%;
+    
+    box-sizing: border-box;
+    
+    margin:auto;
+    border-radius: 10px;  
+    padding:10px;
+}
+
+.mario-1 {
+    width: 40%;
+    max-width: 250px;
+    border-radius: 10px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+li {
+    font-size:12px;
+}
+
+
+.mario-2 {
+    width:40%;
+    max-width: 250px;
+    float:right;
+    border-radius: 10px;
+    margin-left: 10%;
+    
+}
+.mandos {
+    width:50%;
+}
+
+
+hr {
+    border-style:none;   
+}
+
+.comprar {
+    font-size: 16px;   
+}
+
